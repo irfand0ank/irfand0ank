@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @irfand0ank
-- 👀 I’m interested in Football And Badminton
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-  Hi, 👋
+I'm Irfan, a  Web Developer from Indonesia
 
-<!---
-irfand0ank/irfand0ank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
